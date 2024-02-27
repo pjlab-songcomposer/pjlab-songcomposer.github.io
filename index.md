@@ -2,13 +2,12 @@
 <a href="https://mark12ding.github.io/">Shuangrui Ding<sup>*1</sup></a>,  
 <a href="https://scholar.google.com/citations?user=iELd-Q0AAAAJ">Zihan Liu<sup>*2</sup></a>,  
 <a href="https://scholar.google.com/citations?user=FscToE0AAAAJ">Xiaoyi Dong<sup>3</sup></a>,  
-<a href="https://mark12ding.github.io/">Pan Zhang<sup>3</sup></a>,  
+<a href="https://panzhang0212.github.io/">Pan Zhang<sup>3</sup></a>,  
 <a href="https://shvdiwnkozbw.github.io/">Rui Qian<sup>1</sup></a>,  
 <a href="https://conghui.github.io/">Conghui He<sup>3</sup></a>,  
 <a href="http://dahua.site/">Dahua Lin<sup>3</sup></a>,  
-<a href="https://myownskyw7.github.io/">Jiaqi Wang<sup>&dagger;3</sup></a>,  
+<a href="https://myownskyw7.github.io/">Jiaqi Wang<sup>&dagger;3</sup></a> 
 </p>
-
 
 <p align="center" style="font-size: 2em; margin-top: -1em"><sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>Beihang University, <sup>3</sup>Shanghai AI Laboratory</p>
 
