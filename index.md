@@ -1,21 +1,23 @@
-<font size=1.5><center>[Shuangrui Ding](https://mark12ding.github.io/)<sup>*1</sup>,
-[Zihan Liu](https://scholar.google.com/citations?user=iELd-Q0AAAAJ)<sup>*2</sup>,
-[Xiaoyi Dong](https://scholar.google.com/citations?user=FscToE0AAAAJ)<sup>3</sup>,
-[Pan Zhang](https://panzhang0212.github.io/)<sup>3</sup>,
-[Rui Qian](https://shvdiwnkozbw.github.io/)<sup>1</sup>,
-[Conghui He](https://conghui.github.io/)<sup>3</sup>,
-[Dahua Lin](http://dahua.site/)<sup>3</sup>,
-[Jiaqi Wang](https://myownskyw7.github.io/)<sup>&dagger;3</sup>
-</center></font>
+<p align="center" style="font-size: 1.8em; margin-top: -1em">
+<a href="https://mark12ding.github.io/">Shuangrui Ding<sup>*1</sup></a>,  
+<a href="https://scholar.google.com/citations?user=iELd-Q0AAAAJ">Zihan Liu<sup>*2</sup></a>,  
+<a href="https://scholar.google.com/citations?user=FscToE0AAAAJ">Xiaoyi Dong<sup>3</sup></a>,  
+<a href="https://mark12ding.github.io/">Pan Zhang<sup>3</sup></a>,  
+<a href="https://shvdiwnkozbw.github.io/">Rui Qian<sup>1</sup></a>,  
+<a href="https://conghui.github.io/">Conghui He<sup>3</sup></a>,  
+<a href="http://dahua.site/">Dahua Lin<sup>3</sup></a>,  
+<a href="https://myownskyw7.github.io/">Jiaqi Wang<sup>&dagger;3</sup></a>,  
+</p>
 
-<p align="center" style="font-size: 0.8em; margin-top: -1em"><sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>Beihang University, <sup>3</sup>Shanghai AI Laboratory</p>
+
+<p align="center" style="font-size: 2em; margin-top: -1em"><sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>Beihang University, <sup>3</sup>Shanghai AI Laboratory</p>
 
 
-<p align="center" style="font-size: 0.6em; margin-top: -1em"> <sup>*</sup>  Equal Contribution. <sup>&dagger;</sup>Corresponding authors. </p>
+<p align="center" style="font-size: 1.5em; margin-top: -1em"> <sup>*</sup>  Equal Contribution. <sup>&dagger;</sup>Corresponding authors. </p>
 
-<p align="center">
+<p align="center style="font-size: 1.5em; margin-top: -1em">
 <a href="https://arxiv.org">arXiv</a> | 
-<a href="https://github.com/">code</a>
+<a href="https://github.com/pjlab-songcomposer/songcomposer">code</a>
 </p>
 
 
