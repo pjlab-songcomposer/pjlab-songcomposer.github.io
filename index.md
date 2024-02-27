@@ -15,7 +15,7 @@
 
 <p align="center" style="font-size: 1.5em; margin-top: -1em"> <sup>*</sup>  Equal Contribution. <sup>&dagger;</sup>Corresponding authors. </p>
 
-<p align="center style="font-size: 1.5em; margin-top: -1em">
+<p align="center" style="font-size: 1.5em; margin-top: -1em">
 <a href="https://arxiv.org">arXiv</a> | 
 <a href="https://github.com/pjlab-songcomposer/songcomposer">code</a>
 </p>
