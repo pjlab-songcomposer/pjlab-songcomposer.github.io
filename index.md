@@ -1,9 +1,9 @@
 <p align="center" style="font-size: 1.22em; margin-top: -1em">
 <a href="https://mark12ding.github.io/">Shuangrui Ding<sup>*1</sup></a>,  
 <a href="https://scholar.google.com/citations?user=iELd-Q0AAAAJ">Zihan Liu<sup>*2,3</sup></a>,  
-<a href="https://lightdxy.github.io/">Xiaoyi Dong<sup>3</sup></a>,  
-<a href="https://panzhang0212.github.io/">Pan Zhang<sup>3</sup></a>,  
-<a href="https://shvdiwnkozbw.github.io/">Rui Qian<sup>1</sup></a>,  
+<a href="https://lightdxy.github.io/">Xiaoyi Dong<sup>1,3</sup></a>,  
+<a href="https://panzhang0212.github.io/">Pan Zhang<sup>3</sup></a>, 
+<a href="https://shvdiwnkozbw.github.io/">Rui Qian<sup>1</sup></a>,  <br>
 <a href="https://scholar.google.com/citations?user=fnfHBoAAAAAJ">Junhao Huang<sup>3</sup></a>,  
 <a href="https://conghui.github.io/">Conghui He<sup>3</sup></a>,  
 <a href="http://dahua.site/">Dahua Lin<sup>3</sup></a>,  
